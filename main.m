@@ -1,6 +1,5 @@
-%% Pseudocode
+%% Nomenclature
 %{
-OBJECTIVE: 3D simulation of fixed-wing aircraft kinematics
 
 i     : Agent enumeration
 j     : Neighbour enumeration
